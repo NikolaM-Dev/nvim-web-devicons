@@ -10,6 +10,36 @@ local icons_by_filename = {
     color = "#ffab00",
     name = "ViteConfig",
   },
+  ["tsconfig.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TSConfig",
+  },
+  ["tsconfig.node.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TSNodeConfig",
+  },
+  ["tsconfig.build.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TSBuildConfig",
+  },
+  ["tslint.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TslintConfig",
+  },
+  ["tsconfig.spec.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TSSpecConfig",
+  },
+  ["tsconfig.app.json"] = {
+    icon = "",
+    color = "#757575",
+    name = "TSAppConfig",
+  },
   [".babelrc"] = {
     icon = "",
     color = "#cbcb41",
