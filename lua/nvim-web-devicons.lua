@@ -76,6 +76,11 @@ local icons_by_filename = {
     cterm_color = "185",
     name = "Babelrc",
   },
+  [".nvmrc"] = {
+    icon = "",
+    color = "#8bc34a",
+    name = "Nvmrc",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
