@@ -5,6 +5,11 @@ local icons_by_filename = {
     color = "#0288d1",
     name = "YarnLock",
   },
+  ["vite.config.ts"] = {
+    icon = "",
+    color = "#ffab00",
+    name = "ViteConfig",
+  },
   [".babelrc"] = {
     icon = "",
     color = "#cbcb41",
