@@ -1,5 +1,10 @@
 -- exact match by file name
 local icons_by_filename = {
+  ["yarn.lock"] = {
+    icon = "",
+    color = "#0288d1",
+    name = "YarnLock",
+  },
   [".babelrc"] = {
     icon = "",
     color = "#cbcb41",
