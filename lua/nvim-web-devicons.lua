@@ -122,6 +122,11 @@ local icons_by_filename = {
     color = "#7986cb",
     name = "EslintIgnore",
   },
+  [".editorconfig"] = {
+    icon = "",
+    color = "#fdfdfd",
+    name = "EditorConfig",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
