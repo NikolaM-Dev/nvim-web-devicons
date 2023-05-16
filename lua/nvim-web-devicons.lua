@@ -101,6 +101,27 @@ local icons_by_filename = {
     color = "#65babb",
     name = "PrettierIgnore",
   },
+  [".eslintrc"] = {
+    icon = "󰱺",
+    color = "#7986cb",
+    cterm_color = "56",
+    name = "Eslintrc",
+  },
+  [".eslintrc.cjs"] = {
+    icon = "󰱺",
+    color = "#7986cb",
+    name = "EslintConfig",
+  },
+  [".eslintrc.js"] = {
+    icon = "󰱺",
+    color = "#7986cb",
+    name = "EslintJS",
+  },
+  [".eslintignore"] = {
+    icon = "󰱺",
+    color = "#7986cb",
+    name = "EslintIgnore",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
@@ -118,12 +139,6 @@ local icons_by_filename = {
     color = "#41535b",
     cterm_color = "239",
     name = "DsStore",
-  },
-  [".eslintrc"] = {
-    icon = "",
-    color = "#4b32c3",
-    cterm_color = "56",
-    name = "Eslintrc",
   },
   [".gitattributes"] = {
     icon = "",
