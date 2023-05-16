@@ -40,6 +40,26 @@ local icons_by_filename = {
     color = "#757575",
     name = "TSAppConfig",
   },
+  ["jest.setup.js"] = {
+    icon = "󱢡",
+    color = "#f4511e",
+    name = "JestSetup",
+  },
+  ["jest.config.cjs"] = {
+    icon = "󱢡",
+    color = "#f4511e",
+    name = "JestConfig",
+  },
+  ["jest-e2e.json"] = {
+    icon = "󱢡",
+    color = "#f4511e",
+    name = "JestE2E",
+  },
+  ["jest.config.js"] = {
+    icon = "󱢡",
+    color = "#f4511e",
+    name = "JestConfig",
+  },
   [".babelrc"] = {
     icon = "",
     color = "#cbcb41",
