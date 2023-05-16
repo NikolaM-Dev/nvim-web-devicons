@@ -60,9 +60,19 @@ local icons_by_filename = {
     color = "#f4511e",
     name = "JestConfig",
   },
+  ["babel.config.cjs"] = {
+    icon = "󰨥",
+    color = "#fdd835",
+    name = "BabelConfig",
+  },
+  ["babel.config.js"] = {
+    icon = "󰨥",
+    color = "#fdd835",
+    name = "BabelConfig",
+  },
   [".babelrc"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "󰨥",
+    color = "#fdd835",
     cterm_color = "185",
     name = "Babelrc",
   },
