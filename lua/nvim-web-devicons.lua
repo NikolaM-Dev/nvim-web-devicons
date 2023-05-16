@@ -81,6 +81,26 @@ local icons_by_filename = {
     color = "#8bc34a",
     name = "Nvmrc",
   },
+  [".prettierrc"] = {
+    icon = "",
+    color = "#65babb",
+    name = "Prettier",
+  },
+  [".prettierrc.js"] = {
+    icon = "",
+    color = "#65babb",
+    name = "PrettierJS",
+  },
+  [".prettierrc.cjs"] = {
+    icon = "",
+    color = "#65babb",
+    name = "PrettierConfig",
+  },
+  [".prettierignore"] = {
+    icon = "",
+    color = "#65babb",
+    name = "PrettierIgnore",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
