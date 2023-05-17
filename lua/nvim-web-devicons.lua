@@ -152,6 +152,11 @@ local icons_by_filename = {
     color = "#00bfa5",
     name = "CypressConfig",
   },
+  ["tailwind.config.js"] = {
+    icon = "󱏿",
+    color = "#4db6ac",
+    name = "TailwindConfig",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
