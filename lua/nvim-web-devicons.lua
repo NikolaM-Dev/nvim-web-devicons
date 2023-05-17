@@ -127,6 +127,11 @@ local icons_by_filename = {
     color = "#fdfdfd",
     name = "EditorConfig",
   },
+  [".luacheckrc"] = {
+    icon = "",
+    color = "#42a5f5",
+    name = "LuaCheckrc",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
