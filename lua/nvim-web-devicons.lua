@@ -157,6 +157,11 @@ local icons_by_filename = {
     color = "#4db6ac",
     name = "TailwindConfig",
   },
+  ["postcss.config.js"] = {
+    icon = "󱥒",
+    color = "#e53935",
+    name = "PostcssConfig",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
