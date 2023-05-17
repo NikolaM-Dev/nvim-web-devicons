@@ -137,6 +137,11 @@ local icons_by_filename = {
     color = "#ffca28",
     name = "Contributing",
   },
+  [".envrc"] = {
+    icon = "󰆍",
+    color = "#ff7043",
+    name = "Envrc",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
