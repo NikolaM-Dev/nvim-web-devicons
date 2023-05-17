@@ -132,6 +132,11 @@ local icons_by_filename = {
     color = "#42a5f5",
     name = "LuaCheckrc",
   },
+  ["contributing.md"] = {
+    icon = "󰅍",
+    color = "#ffca28",
+    name = "Contributing",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
