@@ -142,6 +142,11 @@ local icons_by_filename = {
     color = "#ff7043",
     name = "Envrc",
   },
+  [".gitkeep"] = {
+    icon = "",
+    color = "#e64a19",
+    name = "GitKeep",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
