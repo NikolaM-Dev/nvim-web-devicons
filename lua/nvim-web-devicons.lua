@@ -147,6 +147,11 @@ local icons_by_filename = {
     color = "#e64a19",
     name = "GitKeep",
   },
+  ["cypress.config.ts"] = {
+    icon = "󱍷",
+    color = "#00bfa5",
+    name = "CypressConfig",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
