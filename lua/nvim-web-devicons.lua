@@ -168,6 +168,16 @@ local icons_by_filename = {
     cterm_color = "98",
     name = "VscodeSettings",
   },
+  ["ormconfig.js"] = {
+    icon = "󱙋",
+    color = "#ffca28",
+    name = "OrmConfig",
+  },
+  ["ormconfig.ts"] = {
+    icon = "󱙋",
+    color = "#0288d1",
+    name = "OrmConfigTS",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
