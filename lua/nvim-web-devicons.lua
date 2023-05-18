@@ -193,6 +193,11 @@ local icons_by_filename = {
     color = "#ff5252",
     name = "Robots",
   },
+  [".browserslistrc"] = {
+    icon = "",
+    color = "#ffca28",
+    name = "Browerslist",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
