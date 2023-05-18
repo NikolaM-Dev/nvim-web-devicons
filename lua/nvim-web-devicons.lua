@@ -188,6 +188,11 @@ local icons_by_filename = {
     color = "#26a69a",
     name = "KarmaConf",
   },
+  ["robots.txt"] = {
+    icon = "󱚝",
+    color = "#ff5252",
+    name = "Robots",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
