@@ -162,6 +162,12 @@ local icons_by_filename = {
     color = "#e53935",
     name = "PostcssConfig",
   },
+  ["settings.json"] = {
+    icon = "󰨞",
+    color = "#2196f3",
+    cterm_color = "98",
+    name = "VscodeSettings",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
