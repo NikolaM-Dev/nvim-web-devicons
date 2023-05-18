@@ -178,6 +178,11 @@ local icons_by_filename = {
     color = "#0288d1",
     name = "OrmConfigTS",
   },
+  ["nest-cli.json"] = {
+    icon = "",
+    color = "#e53935",
+    name = "NestCli",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
