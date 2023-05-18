@@ -198,6 +198,11 @@ local icons_by_filename = {
     color = "#ffca28",
     name = "Browerslist",
   },
+  ["bitbucket-pipelines.yml"] = {
+    icon = "󰂨",
+    color = "#1e88e5",
+    name = "BitbucketPipeline",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
