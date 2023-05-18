@@ -183,6 +183,11 @@ local icons_by_filename = {
     color = "#e53935",
     name = "NestCli",
   },
+  ["karma.conf.js"] = {
+    icon = "",
+    color = "#26a69a",
+    name = "KarmaConf",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
