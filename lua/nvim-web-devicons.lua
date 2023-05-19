@@ -268,7 +268,7 @@ local icons_by_filename = {
   },
   [".gvimrc"] = {
     icon = "",
-    color = "#019833",
+    color = "#43a047",
     cterm_color = "28",
     name = "Gvimrc",
   },
