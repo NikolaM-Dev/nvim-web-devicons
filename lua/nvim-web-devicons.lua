@@ -208,6 +208,11 @@ local icons_by_filename = {
     color = "#e53935",
     name = "Angular",
   },
+  ["app.e2e-spec.ts"] = {
+    icon = "",
+    color = "#0288d1",
+    name = "AppE2E",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
