@@ -213,6 +213,11 @@ local icons_by_filename = {
     color = "#0288d1",
     name = "AppE2E",
   },
+  ["pnpm-lock.yaml"] = {
+    icon = "",
+    color = "#ffb300",
+    name = "PnpmLock",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
