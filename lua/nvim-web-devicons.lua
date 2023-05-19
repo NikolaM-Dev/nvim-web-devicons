@@ -273,14 +273,14 @@ local icons_by_filename = {
     name = "Gvimrc",
   },
   [".npmignore"] = {
-    icon = "",
-    color = "#E8274B",
+    icon = "󰝆",
+    color = "#e53935",
     cterm_color = "197",
     name = "NPMIgnore",
   },
   [".npmrc"] = {
-    icon = "",
-    color = "#E8274B",
+    icon = "󰝆",
+    color = "#e53935",
     cterm_color = "197",
     name = "NPMrc",
   },
