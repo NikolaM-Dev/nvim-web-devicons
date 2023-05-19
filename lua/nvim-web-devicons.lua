@@ -203,6 +203,11 @@ local icons_by_filename = {
     color = "#1e88e5",
     name = "BitbucketPipeline",
   },
+  ["angular.json"] = {
+    icon = "󰚲",
+    color = "#e53935",
+    name = "Angular",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
