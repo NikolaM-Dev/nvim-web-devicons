@@ -417,13 +417,13 @@ local icons_by_filename = {
     name = "Vimrc",
   },
   ["package.json"] = {
-    icon = "",
-    color = "#e8274b",
+    icon = "",
+    color = "#8bc34a",
     name = "PackageJson",
   },
   ["package-lock.json"] = {
-    icon = "",
-    color = "#7a0d21",
+    icon = "",
+    color = "#8bc34a",
     name = "PackageLockJson",
   },
   ["node_modules"] = {
