@@ -434,7 +434,7 @@ local icons_by_filename = {
   },
   ["favicon.ico"] = {
     icon = "",
-    color = "#cbcb41",
+    color = "#ffd54f",
     cterm_color = "185",
     name = "Favicon",
   },
