@@ -457,8 +457,8 @@ local icons_by_filename = {
     name = "MixLock",
   },
   [".env"] = {
-    icon = "",
-    color = "#faf743",
+    icon = "",
+    color = "#fbc02d",
     cterm_color = "227",
     name = "Env",
   },
