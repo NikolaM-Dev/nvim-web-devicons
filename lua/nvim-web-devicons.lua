@@ -439,14 +439,14 @@ local icons_by_filename = {
     name = "Favicon",
   },
   ["gnumakefile"] = {
-    icon = "",
-    color = "#6d8086",
+    icon = "󱕷",
+    color = "#ef5350",
     cterm_color = "66",
     name = "Makefile",
   },
   ["makefile"] = {
-    icon = "",
-    color = "#6d8086",
+    icon = "󱕷",
+    color = "#ef5350",
     cterm_color = "66",
     name = "Makefile",
   },
