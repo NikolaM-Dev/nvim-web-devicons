@@ -334,7 +334,7 @@ local icons_by_filename = {
   },
   ["containerfile"] = {
     icon = "󰡨",
-    color = "#458ee6",
+    color = "#0087c9",
     cterm_color = "68",
     name = "Dockerfile",
   },
@@ -352,19 +352,19 @@ local icons_by_filename = {
   },
   ["docker-compose.yml"] = {
     icon = "󰡨",
-    color = "#458ee6",
+    color = "#0087c9",
     cterm_color = "68",
     name = "Dockerfile",
   },
   ["docker-compose.yaml"] = {
     icon = "󰡨",
-    color = "#458ee6",
+    color = "#0087c9",
     cterm_color = "68",
     name = "Dockerfile",
   },
   [".dockerignore"] = {
     icon = "󰡨",
-    color = "#458ee6",
+    color = "#0087c9",
     cterm_color = "68",
     name = "Dockerfile",
   },
@@ -488,7 +488,7 @@ local icons_by_filename = {
   },
   ["dockerfile"] = {
     icon = "󰡨",
-    color = "#458ee6",
+    color = "#0087c9",
     cterm_color = "68",
     name = "Dockerfile",
   },
