@@ -375,8 +375,14 @@ local icons_by_filename = {
     name = "Gemfile",
   },
   ["license"] = {
-    icon = "",
-    color = "#d0bf41",
+    color = "#ff5722",
+    icon = "",
+    cterm_color = "185",
+    name = "License",
+  },
+  ["license.md"] = {
+    color = "#ff5722",
+    icon = "",
     cterm_color = "185",
     name = "License",
   },
