@@ -922,8 +922,8 @@ local icons_by_file_extension = {
     name = "BinaryGLTF",
   },
   ["go"] = {
-    icon = "",
-    color = "#519aba",
+    icon = "",
+    color = "#00acc1",
     cterm_color = "74",
     name = "Go",
   },
