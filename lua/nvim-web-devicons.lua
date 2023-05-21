@@ -224,6 +224,12 @@ local icons_by_filename = {
     cterm_color = "113",
     name = "Readme",
   },
+  ["go.mod"] = {
+    icon = "",
+    color = "#ec407a",
+    cterm_color = "113",
+    name = "GoMod",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
