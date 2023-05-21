@@ -994,7 +994,7 @@ local icons_by_file_extension = {
     name = "Hs",
   },
   ["htm"] = {
-    icon = "",
+    icon = "",
     color = "#e34c26",
     cterm_color = "196",
     name = "Htm",
