@@ -230,6 +230,12 @@ local icons_by_filename = {
     cterm_color = "113",
     name = "GoMod",
   },
+  ["go.sum"] = {
+    icon = "",
+    color = "#ec407a",
+    cterm_color = "113",
+    name = "GoSum",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
