@@ -1054,8 +1054,8 @@ local icons_by_file_extension = {
     name = "Jpg",
   },
   ["js"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "",
+    color = "#ffca28",
     cterm_color = "185",
     name = "Js",
   },
