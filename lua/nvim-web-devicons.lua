@@ -713,7 +713,7 @@ local icons_by_file_extension = {
     name = "Cson",
   },
   ["css"] = {
-    icon = "",
+    icon = "󰌜",
     color = "#42a5f5",
     cterm_color = "75",
     name = "Css",
