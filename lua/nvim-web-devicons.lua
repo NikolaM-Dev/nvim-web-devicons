@@ -1000,7 +1000,7 @@ local icons_by_file_extension = {
     name = "Htm",
   },
   ["html"] = {
-    icon = "",
+    icon = "",
     color = "#e44d26",
     cterm_color = "196",
     name = "Html",
