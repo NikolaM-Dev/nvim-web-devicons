@@ -218,6 +218,12 @@ local icons_by_filename = {
     color = "#ffb300",
     name = "PnpmLock",
   },
+  ["readme.md"] = {
+    icon = "",
+    color = "#42a5f5",
+    cterm_color = "113",
+    name = "Readme",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
