@@ -1641,8 +1641,8 @@ local icons_by_file_extension = {
     name = "TextScene",
   },
   ["tsx"] = {
-    icon = "",
-    color = "#1354bf",
+    icon = "󰜈",
+    color = "#0288d1",
     cterm_color = "26",
     name = "Tsx",
   },
