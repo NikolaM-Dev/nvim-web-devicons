@@ -542,6 +542,11 @@ local icons_by_file_extension = {
     color = "#f44336",
     name = "Woff2",
   },
+  ["ttf"] = {
+    icon = "",
+    color = "#f44336",
+    name = "Ttf",
+  },
   ["snap"] = {
     icon = "󰷊",
     color = "#00bcd4",
