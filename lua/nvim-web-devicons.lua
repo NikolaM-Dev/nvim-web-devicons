@@ -1065,8 +1065,8 @@ local icons_by_file_extension = {
     name = "Gif",
   },
   ["git"] = {
-    icon = "",
-    color = "#F14C28",
+    icon = "",
+    color = "#e64a19",
     cterm_color = "196",
     name = "GitLogo",
   },
