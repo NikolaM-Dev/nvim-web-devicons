@@ -552,6 +552,11 @@ local icons_by_file_extension = {
     color = "#e53935",
     name = "Module",
   },
+  ["decorator.ts"] = {
+    icon = "",
+    color = "#ab47bc",
+    name = "Decorator",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
