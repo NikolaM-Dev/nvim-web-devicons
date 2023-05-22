@@ -1259,7 +1259,7 @@ local icons_by_file_extension = {
   },
   ["otf"] = {
     icon = "",
-    color = "#ECECEC",
+    color = "#f44336",
     cterm_color = "255",
     name = "OpenTypeFont",
   },
