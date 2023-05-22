@@ -1647,14 +1647,14 @@ local icons_by_file_extension = {
     name = "Tsx",
   },
   ["test.tsx"] = {
-    icon = "",
-    color = "#1354bf",
+    icon = "",
+    color = "#20c2e3",
     cterm_color = "26",
     name = "TypeScriptReactTest",
   },
   ["spec.tsx"] = {
-    icon = "",
-    color = "#1354bf",
+    icon = "",
+    color = "#20c2e3",
     cterm_color = "26",
     name = "TypeScriptReactSpec",
   },
