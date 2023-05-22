@@ -567,6 +567,11 @@ local icons_by_file_extension = {
     color = "#00897b",
     name = "Pipe",
   },
+  ["filter.ts"] = {
+    icon = "",
+    color = "#ff7043",
+    name = "Filter",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
