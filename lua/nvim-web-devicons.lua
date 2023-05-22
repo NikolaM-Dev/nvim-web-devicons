@@ -557,6 +557,11 @@ local icons_by_file_extension = {
     color = "#ab47bc",
     name = "Decorator",
   },
+  ["guard.ts"] = {
+    icon = "",
+    color = "#43a047",
+    name = "Guard",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
