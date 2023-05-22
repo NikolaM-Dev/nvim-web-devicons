@@ -350,8 +350,8 @@ local icons_by_filename = {
     name = "CMakeLists",
   },
   ["commit_editmsg"] = {
-    icon = "",
-    color = "#41535b",
+    icon = "",
+    color = "#e64a19",
     cterm_color = "239",
     name = "GitCommit",
   },
