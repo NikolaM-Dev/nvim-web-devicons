@@ -683,9 +683,9 @@ local icons_by_file_extension = {
     name = "Dto",
   },
   ["entity.ts"] = {
-    icon = "󰜻",
+    icon = "󰐱",
     color = "#ffca28",
-    name = "Dto",
+    name = "Entity",
   },
   ["ai"] = {
     icon = "",
