@@ -1145,13 +1145,13 @@ local icons_by_file_extension = {
   },
   ["lua"] = {
     icon = "",
-    color = "#51a0cf",
+    color = "#42a5f5",
     cterm_color = "74",
     name = "Lua",
   },
   ["luau"] = {
     icon = "",
-    color = "#51a0cf",
+    color = "#42a5f5",
     cterm_color = "74",
     name = "Luau",
   },
