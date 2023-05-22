@@ -780,7 +780,7 @@ local icons_by_file_extension = {
   },
   ["conf"] = {
     icon = "",
-    color = "#6d8086",
+    color = "#42a5f5",
     cterm_color = "66",
     name = "Conf",
   },
