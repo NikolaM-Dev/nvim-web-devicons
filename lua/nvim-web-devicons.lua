@@ -1713,8 +1713,8 @@ local icons_by_file_extension = {
     name = "Vue",
   },
   ["webmanifest"] = {
-    icon = "",
-    color = "#f1e05a",
+    icon = "󰘦",
+    color = "#fbc02d",
     cterm_color = "185",
     name = "Webmanifest",
   },
