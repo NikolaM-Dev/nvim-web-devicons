@@ -572,6 +572,11 @@ local icons_by_file_extension = {
     color = "#ff7043",
     name = "Filter",
   },
+  ["interceptor.ts"] = {
+    icon = "",
+    color = "#9575cd",
+    name = "Interceptor",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
