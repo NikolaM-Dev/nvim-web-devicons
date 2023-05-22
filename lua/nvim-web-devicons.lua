@@ -1592,7 +1592,7 @@ local icons_by_file_extension = {
   },
   ["scss"] = {
     icon = "",
-    color = "#f55385",
+    color = "#ec407a",
     cterm_color = "204",
     name = "Scss",
   },
