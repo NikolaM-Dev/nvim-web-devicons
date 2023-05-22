@@ -537,6 +537,16 @@ local icons_by_filename = {
 
 -- fuzzy match by extension
 local icons_by_file_extension = {
+  ["en.json"] = {
+    icon = "󰊿",
+    color = "#5c6bc0",
+    name = "English",
+  },
+  ["es.json"] = {
+    icon = "󰊿",
+    color = "#5c6bc0",
+    name = "Spanish",
+  },
   ["service.ts"] = {
     icon = "",
     color = "#ffca28",
