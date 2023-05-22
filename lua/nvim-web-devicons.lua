@@ -1084,7 +1084,7 @@ local icons_by_file_extension = {
     name = "Json5",
   },
   ["jsx"] = {
-    icon = "",
+    icon = "󰜈",
     color = "#20c2e3",
     cterm_color = "45",
     name = "Jsx",
