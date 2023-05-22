@@ -1666,7 +1666,7 @@ local icons_by_file_extension = {
   },
   ["txt"] = {
     icon = "󰈙",
-    color = "#89e051",
+    color = "#42a5f5",
     cterm_color = "113",
     name = "Txt",
   },
