@@ -1467,8 +1467,8 @@ local icons_by_file_extension = {
     name = "Scss",
   },
   ["sh"] = {
-    icon = "",
-    color = "#4d5a5e",
+    icon = "󰆍",
+    color = "#ff7043",
     cterm_color = "240",
     name = "Sh",
   },
