@@ -1060,14 +1060,14 @@ local icons_by_file_extension = {
     name = "Js",
   },
   ["test.js"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "",
+    color = "#ffca28",
     cterm_color = "185",
     name = "TestJs",
   },
   ["spec.js"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "",
+    color = "#ffca28",
     cterm_color = "185",
     name = "SpecJs",
   },
