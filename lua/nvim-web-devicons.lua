@@ -577,6 +577,11 @@ local icons_by_file_extension = {
     color = "#ab47bc",
     name = "Directive",
   },
+  ["resolve.ts"] = {
+    icon = "󰚲",
+    color = "#43a047",
+    name = "Resolver",
+  },
   ["interceptor.ts"] = {
     icon = "",
     color = "#9575cd",
