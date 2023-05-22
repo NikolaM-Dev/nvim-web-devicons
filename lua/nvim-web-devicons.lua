@@ -1617,8 +1617,8 @@ local icons_by_file_extension = {
     name = "TextResource",
   },
   ["ts"] = {
-    icon = "",
-    color = "#519aba",
+    icon = "",
+    color = "#0288d1",
     cterm_color = "74",
     name = "Ts",
   },
