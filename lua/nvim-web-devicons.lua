@@ -622,6 +622,31 @@ local icons_by_file_extension = {
     color = "#ffca28",
     name = "Pgsql",
   },
+  ["env"] = {
+    icon = "",
+    color = "#fbc02d",
+    name = "Env",
+  },
+  ["production"] = {
+    icon = "",
+    color = "#fbc02d",
+    name = "ViteProductionEnv",
+  },
+  ["test"] = {
+    icon = "",
+    color = "#fbc02d",
+    name = "ViteTestEnv",
+  },
+  ["development"] = {
+    icon = "",
+    color = "#fbc02d",
+    name = "ViteDevelopmentEnv",
+  },
+  ["testing"] = {
+    icon = "",
+    color = "#fbc02d",
+    name = "ViteTestingEnv",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
