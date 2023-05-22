@@ -1552,7 +1552,7 @@ local icons_by_file_extension = {
   },
   ["svg"] = {
     icon = "󰜡",
-    color = "#FFB13B",
+    color = "#ffb300",
     cterm_color = "214",
     name = "Svg",
   },
@@ -1606,7 +1606,7 @@ local icons_by_file_extension = {
   },
   ["toml"] = {
     icon = "",
-    color = "#6d8086",
+    color = "#42a5f5",
     cterm_color = "66",
     name = "Toml",
   },
