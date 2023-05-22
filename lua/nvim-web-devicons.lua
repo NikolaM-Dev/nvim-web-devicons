@@ -667,6 +667,11 @@ local icons_by_file_extension = {
     color = "#ff6d00",
     name = "Astro",
   },
+  ["tmpl"] = {
+    icon = "",
+    color = "#00acc1",
+    name = "Tmpl",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
