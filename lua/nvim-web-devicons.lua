@@ -1174,8 +1174,8 @@ local icons_by_file_extension = {
     name = "Makefile",
   },
   ["markdown"] = {
-    icon = "",
-    color = "#519aba",
+    icon = "",
+    color = "#42a5f5",
     cterm_color = "74",
     name = "Markdown",
   },
@@ -1186,8 +1186,8 @@ local icons_by_file_extension = {
     name = "Material",
   },
   ["md"] = {
-    icon = "",
-    color = "#ffffff",
+    icon = "",
+    color = "#42a5f5",
     cterm_color = "231",
     name = "Md",
   },
