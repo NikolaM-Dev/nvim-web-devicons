@@ -1652,8 +1652,8 @@ local icons_by_file_extension = {
     name = "Sml",
   },
   ["sql"] = {
-    icon = "",
-    color = "#dad8d8",
+    icon = "󰆼",
+    color = "#ffca28",
     cterm_color = "188",
     name = "Sql",
   },
