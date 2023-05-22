@@ -542,6 +542,11 @@ local icons_by_file_extension = {
     color = "#0288d1",
     name = "Controller",
   },
+  ["component.ts"] = {
+    icon = "󰚲",
+    color = "#0288d1",
+    name = "Component",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
