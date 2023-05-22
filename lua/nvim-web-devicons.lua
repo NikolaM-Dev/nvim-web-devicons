@@ -1456,7 +1456,7 @@ local icons_by_file_extension = {
   },
   ["scm"] = {
     icon = "󰘧",
-    color = "#000000",
+    color = "#f44336",
     cterm_color = "16",
     name = "Scheme",
   },
