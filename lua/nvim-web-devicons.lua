@@ -236,6 +236,11 @@ local icons_by_filename = {
     cterm_color = "113",
     name = "GoSum",
   },
+  [".fehbg"] = {
+    icon = "",
+    color = "#ff7043",
+    name = "Fehbg",
+  },
   [".bash_profile"] = {
     icon = "",
     color = "#89e051",
