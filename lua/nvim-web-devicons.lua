@@ -552,6 +552,11 @@ local icons_by_file_extension = {
     color = "#00bcd4",
     name = "Snap",
   },
+  ["http"] = {
+    icon = "",
+    color = "#e53935",
+    name = "Http",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
