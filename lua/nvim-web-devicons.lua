@@ -672,6 +672,11 @@ local icons_by_file_extension = {
     color = "#00acc1",
     name = "Tmpl",
   },
+  ["vercel.json"] = {
+    icon = "󰔶",
+    color = "#cfd8dc",
+    name = "Vercel",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
