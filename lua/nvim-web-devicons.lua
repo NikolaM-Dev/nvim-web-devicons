@@ -532,6 +532,16 @@ local icons_by_filename = {
 
 -- fuzzy match by extension
 local icons_by_file_extension = {
+  ["woff"] = {
+    icon = "",
+    color = "#f44336",
+    name = "Woff",
+  },
+  ["woff2"] = {
+    icon = "",
+    color = "#f44336",
+    name = "Woff2",
+  },
   ["snap"] = {
     icon = "󰷊",
     color = "#00bcd4",
