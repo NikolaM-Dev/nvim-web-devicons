@@ -1761,14 +1761,14 @@ local icons_by_file_extension = {
     name = "Xul",
   },
   ["yaml"] = {
-    icon = "",
-    color = "#6d8086",
+    icon = "󰈙",
+    color = "#ff5252",
     cterm_color = "66",
     name = "Yaml",
   },
   ["yml"] = {
-    icon = "",
-    color = "#6d8086",
+    icon = "󰈙",
+    color = "#ff5252",
     cterm_color = "66",
     name = "Yml",
   },
