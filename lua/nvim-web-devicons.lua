@@ -1294,8 +1294,8 @@ local icons_by_file_extension = {
     name = "Pm",
   },
   ["png"] = {
-    icon = "",
-    color = "#a074c4",
+    icon = "󰈟",
+    color = "#26a69a",
     cterm_color = "140",
     name = "Png",
   },
