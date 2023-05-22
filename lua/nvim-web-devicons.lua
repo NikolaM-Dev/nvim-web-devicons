@@ -532,6 +532,11 @@ local icons_by_filename = {
 
 -- fuzzy match by extension
 local icons_by_file_extension = {
+  ["service.ts"] = {
+    icon = "",
+    color = "#ffca28",
+    name = "Service",
+  },
   ["woff"] = {
     icon = "",
     color = "#f44336",
