@@ -910,8 +910,8 @@ local icons_by_file_extension = {
     name = "DesktopEntry",
   },
   ["diff"] = {
-    icon = "",
-    color = "#41535b",
+    icon = "",
+    color = "#e64a19",
     cterm_color = "239",
     name = "Diff",
   },
