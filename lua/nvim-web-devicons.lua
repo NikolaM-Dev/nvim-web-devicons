@@ -1072,14 +1072,14 @@ local icons_by_file_extension = {
     name = "SpecJs",
   },
   ["json"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "󰘦",
+    color = "#fbc02d",
     cterm_color = "185",
     name = "Json",
   },
   ["json5"] = {
-    icon = "",
-    color = "#cbcb41",
+    icon = "󰘦",
+    color = "#fbc02d",
     cterm_color = "185",
     name = "Json5",
   },
