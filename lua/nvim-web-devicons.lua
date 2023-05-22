@@ -662,6 +662,11 @@ local icons_by_file_extension = {
     color = "#fbc02d",
     name = "ViteTestingEnv",
   },
+  ["astro"] = {
+    icon = "",
+    color = "#ff6d00",
+    name = "Astro",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
