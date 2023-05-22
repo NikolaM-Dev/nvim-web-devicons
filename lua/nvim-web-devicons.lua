@@ -677,6 +677,11 @@ local icons_by_file_extension = {
     color = "#cfd8dc",
     name = "Vercel",
   },
+  ["dto.ts"] = {
+    icon = "󰈗",
+    color = "#1976d2",
+    name = "Dto",
+  },
   ["ai"] = {
     icon = "",
     color = "#cbcb41",
