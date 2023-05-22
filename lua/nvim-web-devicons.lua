@@ -632,10 +632,10 @@ local icons_by_file_extension = {
     color = "#e53935",
     name = "Http",
   },
-  ["pgsql"] = {
+  ["psql"] = {
     icon = "󰆼",
     color = "#ffca28",
-    name = "Pgsql",
+    name = "Psql",
   },
   ["env"] = {
     icon = "",
