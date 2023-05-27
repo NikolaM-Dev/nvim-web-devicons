@@ -534,8 +534,8 @@ local icons_by_filename = {
     name = "BazelWorkspace",
   },
   ["unlicense"] = {
-    icon = "",
-    color = "#d0bf41",
+    icon = "",
+    color = "#ff5722",
     cterm_color = "185",
     name = "License",
   },
