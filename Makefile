@@ -12,4 +12,7 @@ style-fix:
 lint:
 	luacheck .
 
+upstream:
+	git pull upstream master
+
 .PHONY: all colors style-check style-fix lint
