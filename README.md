@@ -5,6 +5,12 @@ better highligths. It will remain the same as the original version
 [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons), only with
 the change of the icons and some extensions.
 
+## Roadmap
+
+- [ ] Icons preview
+- [ ] Update light mode icons
+- [ ] Add and change icons
+
 # Notice
 Nerd fonts moved some symbols with version 3.0. Version 2.3 is meant for transition, supporting both version 2 and version 3 icons.
 
