@@ -7,6 +7,7 @@ the change of the icons and some extensions.
 
 ## Roadmap
 
+- [ ] Fix deprecated nerdfont icons v3
 - [ ] Icons preview
 - [ ] Update light mode icons
 - [ ] Add and change icons
