@@ -1935,7 +1935,7 @@ local icons_by_file_extension = {
   },
   ["zig"] = {
     icon = "",
-    color = "#f9a825",
+    color = "#f7a41d",
     cterm_color = "172",
     name = "Zig",
   },
